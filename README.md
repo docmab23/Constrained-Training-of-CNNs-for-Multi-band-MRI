@@ -15,7 +15,7 @@ RAKI reconstruction for simultaneous multi-slice imaging
  •	 -r = Results Directory (to store the reconstructed images)
  
  # Run as follows if you want to perfrom training along with reconstrcution on undersampled data:
- bash mb.sh -c -t <calib_file>  -s <slice no.>  -f <filename> -o <output directory for trained models> -i <input volume which needs to be reconstructed> -r <results directory>
+ bash mb.sh -c -t <calib_file>  -s <slice no.> -f <filename> -o <output directory for trained models> -i <input volume which needs to be reconstructed> -r <results directory>
   
  # If you are on Cn2l server follow these steps:
     •	ssh node15
