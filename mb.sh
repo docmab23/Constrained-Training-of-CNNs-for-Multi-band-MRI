@@ -3,7 +3,7 @@
 calib=0
 help=0
 
-echo "I am in"
+
 while getopts "ct:s:f:o:i:r:h" OPTION;
 do
     case "$OPTION" in
