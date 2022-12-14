@@ -28,3 +28,4 @@ RAKI reconstruction for simultaneous multi-slice imaging
 
   
  
+![image](https://user-images.githubusercontent.com/31487695/207736243-692a810b-819c-4d82-85d2-8d8ba399567a.png)
